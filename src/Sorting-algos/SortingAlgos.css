@@ -1,0 +1,40 @@
+.header{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+span {
+  color: white;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.navbar {
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 60px 10px 60px;
+}
+
+.buttons {
+  width: 150px;
+  border-radius: 9999px;
+  font-size: 20px;
+}
+
+.navbar >:first-child{
+  width: 200px;
+}
+
+.array-container {
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+  }
+  
+.array-bar {
+  margin: 0 1px;
+}

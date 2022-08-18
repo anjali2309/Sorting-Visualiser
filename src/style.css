@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.App{
+    background-color: black;
+    height: 100vh;
+}
